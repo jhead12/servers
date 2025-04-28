@@ -1,0 +1,9 @@
+{
+    "name": "Filesystem",
+    "type": "filesystem",
+    "command": "npx",
+    "args": ["@modelcontextprotocol/server-filesystem", "/path/to/allowed/files"],
+    "env": {
+      "PORT": "3000"
+    }
+  }
