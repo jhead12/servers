@@ -1,9 +1,4 @@
 {
-    "name": "Filesystem",
-    "type": "filesystem",
-    "command": "npx",
-    "args": ["@modelcontextprotocol/server-filesystem", "/path/to/allowed/files"],
-    "env": {
-      "PORT": "3000"
-    }
+    "name": "My App Name",
+    "url": "http://localhost:8080"
   }

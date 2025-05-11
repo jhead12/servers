@@ -1,4 +1,4 @@
-mcp-servers = {
+mcp_servers = {
     "memory": {
         "command": "npx",
         "args": ["-y", "@modelcontextprotocol/server-memory"]
@@ -24,10 +24,10 @@ mcp-servers = {
     }
 }
 
-mcp-clients = {
+mcp_clients = {
     "claude-desktop": {
         "config": {
-            "mcpServers": mcp-servers
+            "mcpServers": mcp_servers
         },
         "command": "npx",
         "args": ["-y", "@modelcontextprotocol/client-claude-desktop"]

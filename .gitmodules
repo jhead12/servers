@@ -1,0 +1,2 @@
+[submodule "mcp-custom/python-sdk"]
+	url = https://github.com/jhead12/python-sdk
