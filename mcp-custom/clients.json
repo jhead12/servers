@@ -1,0 +1,14 @@
+{
+  "client1": {
+    "config": {
+      "name": "ExampleClient1",
+      "version": "1.0"
+    }
+  },
+  "client2": {
+    "config": {
+      "name": "ExampleClient2",
+      "version": "1.1"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+total 173
+-rwxrwxrwx 1 root root   2529 Apr 29 10:20 README.md
+drwxrwxrwx 1 root root    512 Apr 28 04:48 __pycache__
+-rwxrwxrwx 1 root root    156 Apr 29 10:49 babel.config.js
+-rwxrwxrwx 1 root root     70 Apr 29 10:21 config.json
+-rwxrwxrwx 1 root root    638 Apr 28 23:45 eslintrc.js
+-rwxrwxrwx 1 root root   5298 Apr 28 22:27 index.js
+-rwxrwxrwx 1 root root   2398 Apr 29 00:46 main.py
+-rwxrwxrwx 1 root root   1108 Apr 30 19:27 package.json
+-rwxrwxrwx 1 root root 144490 Apr 29 00:13 pnpm-lock.yaml
+-rwxrwxrwx 1 root root     37 Apr 28 23:00 pnpm-workspace.yaml
+-rwxrwxrwx 1 root root      0 Apr 28 23:05 prettierrc.yaml
+-rwxrwxrwx 1 root root   2743 Apr 30 13:00 server.py
+drwxrwxrwx 1 root root    512 Apr 28 15:15 test
+-rwxrwxrwx 1 root root      0 May  8 13:06 tree.txt

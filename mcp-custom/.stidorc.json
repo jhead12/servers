@@ -1,0 +1,7 @@
+{
+    "mcpServer.command": "${config.mcpServers.memory.command}",
+    "mcpServer.args": ["${config.mcpServers.memory.args}"],
+    "mcpServer.servers": [
+        "${config.mcpServers.memory}"
+    ]
+}
